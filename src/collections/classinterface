@@ -1,0 +1,2 @@
+ class - blueprint of object , specifies what should be done
+ interface - blueprint of class , specifies what a class must do and not how to do it 

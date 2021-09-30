@@ -1,0 +1,6 @@
+no duplicates allowed
+
+Set<T> hs = new HashSet<> ();
+Set<T> lhs = new LinkedHashSet<> ();
+Set<T> ts = new TreeSet<> ();
+Where T is the type of the object.

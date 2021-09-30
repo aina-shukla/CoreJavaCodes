@@ -1,0 +1,6 @@
+ Deque, also known as a double-ended queue, is a data structure where we can add and remove the elements from both the ends of the queue. 
+ This interface extends the queue interface. The class which implements this interface is ArrayDeque. 
+ Since this class implements the deque, we can instantiate a deque object with this class.
+  It can either be used as a queue(first-in-first-out/FIFO) or as a stack(last-in-first-out/LIFO). Deque is the acronym for double ended queue.
+
+ 
